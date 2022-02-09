@@ -1,15 +1,15 @@
-# Front-end Style Guide
+# Guía de estilo de front-end
 
-## Layout
+## Disposición
 
-The designs were created to the following widths:
+Los diseños se crearon con los siguientes anchos:
 
 - Mobile: 375px
 - Desktop: 1440px
 
-## Colors
+## Colores
 
-### Primary
+### Primario
 
 - Strong Cyan: hsl(171, 66%, 44%)
 - Light Blue: hsl(233, 100%, 69%)
@@ -19,20 +19,20 @@ The designs were created to the following widths:
 - Dark Grayish Blue: hsl(210, 10%, 33%)
 - Grayish Blue: hsl(201, 11%, 66%)
 
-## Typography
+## Tipografía
 
-### Body Copy
+### Copia de cuerpo
 
 - Font size: 18px
 
-### Fonts
+### Fuentes
 
 - Family: [Bai Jamjuree](https://fonts.google.com/specimen/Bai+Jamjuree)
 - Weights: 400, 600
 
-## Icons
+## Iconos
 
-For the social icons, you can use the SVGs provided or a font icon library. Some font icon library suggestions can be found below:
+Para los íconos sociales, puede usar los SVG proporcionados o una biblioteca de íconos de fuentes. Algunas sugerencias de la biblioteca de iconos de fuentes se pueden encontrar a continuación:
 
 - [Font Awesome](https://fontawesome.com)
 - [IcoMoon](https://icomoon.io)
